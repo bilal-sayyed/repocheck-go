@@ -1,0 +1,4 @@
+ignore_paths:
+    - node_modules
+    - vendor
+strict_mode: false
