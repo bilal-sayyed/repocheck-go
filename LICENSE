@@ -1,0 +1,35 @@
+Repocheck Source-Available License
+
+Copyright (c) 2026 Bilal Sayyed. All rights reserved.
+
+This software is source-available but not open source.
+
+Permission is granted to view, compile, and run this software for
+personal, internal, and evaluation purposes, subject to the
+restrictions below.
+
+1. Free Usage
+   - The Free tier may be used for personal and evaluation purposes.
+   - Free usage does not grant access to Pro features.
+
+2. Pro Usage
+   - Pro features require a valid paid license key.
+   - Commercial, CI/CD, and team usage of Pro features requires
+     a paid Pro license.
+
+3. Restrictions
+   - You may not redistribute, sublicense, sell, or rebrand this
+     software as a competing product.
+   - You may not bypass, remove, or disable license enforcement.
+   - You may not offer this software as a hosted or commercial service
+     without prior written permission.
+
+4. Modifications
+   - You may modify the source code for personal or internal use.
+   - Modified versions may not be redistributed or sold.
+
+5. Disclaimer
+   - This software is provided "as is", without warranty of any kind.
+
+For full terms and licensing options, visit:
+https://repocheck.vercel.app/license
